@@ -1,5 +1,5 @@
 {
-  "name": "ajiro-rest-api",
+  "name": "gionexsa_api",
   "version": "1.0.0",
   "description": "A simple rest api by AjiroDesu",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "url": "https://github.com/ajirodesu/ajiro-rest-api.git"
   },
   "keywords": [],
-  "author": "AjiroDesu",
+  "author": "Giie",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
